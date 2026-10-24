@@ -1,6 +1,12 @@
 # Hi, I'm Dhruvesh Akre 👋
 
-**Frontend-focused Full Stack Developer** from Mumbai, India. I build responsive web apps with React.js and TypeScript, REST APIs with Node.js and Flask, and mobile apps with Flutter. I also lead the teams that build them.
+**Frontend-focused Full Stack Developer** with a BSc in Information Technology and a Diploma in Electrical Engineering. Builds
+responsive web applications with React.js, TypeScript and JavaScript, backed by REST APIs in Node.js and Flask with PostgreSQL,
+MySQL and MongoDB. Currently freelancing on 4 projects spanning web and Flutter mobile development, plus a live dental clinic
+website I designed and built.
+Led 5 project teams as team lead, planner and core developer, delivering every project on schedule with full documentation, and
+presented FixMyWaste to a government official. Uses AI-assisted development (Claude, GitHub Copilot, ChatGPT, Gemini) to ship
+faster across backend and mobile work
 
 - 🌐 Built and launched a live client website: **[shreedantdental.in](https://www.shreedantdental.in/)**
 - 💼 Currently freelancing on 4 web and Flutter mobile projects
